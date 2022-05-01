@@ -1,0 +1,37 @@
+.card{
+    height: 50%;
+    margin-bottom: 5vh
+}
+
+#form{
+    padding-left: 25vw;
+    margin-top: 10vh;
+    margin-bottom: 5vh
+}
+body{
+    background-image: linear-gradient(to bottom, rgb(146, 144, 144), black);
+    background-repeat: no-repeat;
+    height: fit-content;
+}
+
+input{
+    border-radius: 20px;
+    padding: 1vh
+}
+
+#submitButton{
+    border-radius: 20px;
+}
+
+.card-img-overlay div{
+    padding: 1.5vh;
+}
+
+#forecast{
+    background-image: none
+}
+
+#forecast h4, img{
+    display: inline;
+}
+
